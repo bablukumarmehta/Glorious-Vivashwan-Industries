@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"mdi-t",
+				"mdi-tumblr"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"c",
+				"col-md-6"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"mart",
+				"margin-left"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"margint",
+				"margin-top"
+			],
+			[
+				"lightb",
+				"lightsteelblue"
+			],
+			[
+				"light",
+				"lightcoral"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"red",
+				"orangered"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"fa-c",
+				"fa-cogs"
+			],
+			[
+				"fa-s",
+				"fa-bars"
+			],
+			[
+				"btn",
+				"btn1"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"textc",
+				"text-decoration-color"
+			],
+			[
+				"cont",
+				"justify-content"
+			],
+			[
+				"fam",
+				"fa-mail-bulk"
+			],
+			[
+				"fa-m",
+				"fa-mail-bulk"
+			],
+			[
+				"fa-l",
+				"fa-linkedin"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-justify"
+			],
+			[
+				"blue",
+				"darkblue"
+			],
+			[
+				"bl",
+				"blueviolet"
+			],
+			[
+				"fa-",
+				"fa-phone-alt"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"gre",
+				"limegreen"
+			],
+			[
+				"gr",
+				"greenyellow"
+			],
+			[
+				"blu",
+				"darkblue"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"inf",
+				"info_social"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"purple",
+				"rebeccapurple"
+			],
+			[
+				"pur",
+				"peru"
+			],
+			[
+				"plu",
+				"paleturquoise"
+			],
+			[
+				"pu",
+				"plum"
+			],
+			[
+				"voilet",
+				"darkviolet"
+			],
+			[
+				"voil",
+				"palevioletred"
+			],
+			[
+				"voi",
+				"mediumvioletred"
+			],
+			[
+				"gree",
+				"lawngreen"
+			],
+			[
+				"green",
+				"seagreen"
+			],
+			[
+				"lightgr",
+				"lightgreen"
+			],
+			[
+				"yell",
+				"yellowgreen"
+			],
+			[
+				"darkv",
+				"darkviolet"
+			],
+			[
+				"v",
+				"navy"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"hea",
+				"heading_container"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"fa",
+				"fa-android"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"re",
+				"readonly"
+			],
+			[
+				"min",
+				"minlength"
+			],
+			[
+				"g",
+				"greenyellow"
+			],
+			[
+				"Bl",
+				"black"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"e",
+				"absolute"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fa-la",
+				"fa-map-marker-alt"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"soft",
+				"software"
+			],
+			[
+				"E",
+				"E_Status"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"E_ph",
+				"E_photo"
+			],
+			[
+				"E_p",
+				"E_photo"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"mi",
+				"minlength"
+			],
+			[
+				"Scu",
+				"E_Scurity_question"
+			],
+			[
+				"mt",
+				"mt_rand()"
+			],
+			[
+				"Ex",
+				"E_Experince"
+			],
+			[
+				"E_e",
+				"E_Experince"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"a",
+				"align-content"
+			],
+			[
+				"se",
+				"tbl_settings"
+			],
+			[
+				"cel",
+				"cellspacing"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"find",
+				"findPeri"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"object",
+				"objectCount"
+			],
+			[
+				"br",
+				"br"
+			],
+			[
+				"emplo",
+				"Employee"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"fnm",
+				"fnm2"
+			],
+			[
+				"fte",
+				"ftemp2"
+			],
+			[
+				"ftemp",
+				"ftemp1"
+			],
+			[
+				"ft",
+				"ftype1"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"mob",
+				"mob"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Buble_UP/Admin/404.html",
+		"/C/Users/Abhay kumar/Desktop/Python Program/loop.py",
+		"/C/Users/Abhay kumar/Desktop/card.html",
+		"/C/xampp/htdocs/Buble_UP/index.php",
+		"/C/xampp/htdocs/Buble_UP/header.php",
+		"/D/My Company File/abplus/index.php",
+		"/D/My Company File/Car Moving/Style.css",
+		"/D/My Company File/Car Moving/script.js",
+		"/D/My Company File/Car Moving/index.html",
+		"/C/Users/Abhay kumar/Desktop/Marksheet.py",
+		"/C/Users/Abhay kumar/Desktop/AreaAndParameterfoTriangle.py",
+		"/C/Users/Abhay kumar/Desktop/Biodata.py",
+		"/D/My Company File/com/index.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/includes/header.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/includes/sidebar.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/includes/footer.php",
+		"/C/xampp/htdocs/Admin/index.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/index.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/includes/navbar.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/css/style.css",
+		"/C/xampp/htdocs/Buble_UP/Admin/tab.html",
+		"/C/xampp/htdocs/Buble_UP/ui-tab.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/index.html",
+		"/C/Users/Abhay kumar/Desktop/graph.html",
+		"/C/Users/Abhay kumar/Desktop/VBDATABASE.ldb",
+		"/C/xampp/htdocs/Buble_UP/Admin/js/custom.js",
+		"/C/xampp/htdocs/Buble_UP/Admin1/Admin/ui-tab.html",
+		"/C/xampp/htdocs/Admin/includes/header.php",
+		"/D/All company file/Admin/theme/index.html",
+		"/D/All company file/Admin/theme/chart-chartjs.html",
+		"/D/All company file/samle.html",
+		"/D/All company file/Admin/theme/ui-tab.html",
+		"/C/xampp/htdocs/Admin/includes/sidebar.php",
+		"/D/All company file/Admin/theme/chart-flot.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/ui-tab.html",
+		"/D/All company file/Admin/theme/chart-morris.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/includes/ui-tab.html",
+		"/D/All company file/figma_pages/page-1/dashboard-laundry.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/footer.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/sidebar.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/navbar.php",
+		"/C/xampp/htdocs/Buble_UP/Admin/header.php",
+		"/C/xampp/htdocs/Admin/includes/navbar.php",
+		"/C/xampp/htdocs/Admin/includes/footer.php",
+		"/C/xampp/htdocs/Buble_UP/database/config.php",
+		"/C/xampp/htdocs/Buble-Admin/index.html",
+		"/D/All company file/lockScreen/style.css",
+		"/D/All company file/lockScreen/lock_Screen.html",
+		"/D/All company file/lockScreen/login.html",
+		"/D/All company file/lockScreen/Login & Signup Form1/Login.html",
+		"/D/All company file/lockScreen/Login & Signup Form1/Change_pass.html",
+		"/D/All company file/lockScreen/Login & Signup Form1/forgot_pass.html",
+		"/D/All company file/lockScreen/Login & Signup Form1/css/boxicons.min.css",
+		"/D/All company file/lockScreen/Login & Signup Form1/css/style.css",
+		"/C/xampp/htdocs/Buble_UP/Contact.php",
+		"/D/All company file/lockScreen/Login & Signup Form1/index.html",
+		"/D/All company file/lockScreen/Login & Signup Form1/css/font-family.min.css",
+		"/D/All company file/bubble/Contact.html",
+		"/D/All company file/bubble/css/style.css",
+		"/D/All company file/bubble/index.html",
+		"/C/xampp/htdocs/Buble_UP/css/style.css",
+		"/D/All company file/bubble/opratore.html",
+		"/C/xampp/htdocs/Surucu/Post a job form.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/assets/dist/css/adminlte.min.css",
+		"/D/All company file/lock_Screen.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/assets/plugins/flag-icon-css/css/flag-icon.css",
+		"/C/xampp/htdocs/Buble_UP/Admin/assets/plugins/flag-icon-css/css/flag-icon.min.css",
+		"/D/All company file/Level_UP/index.html",
+		"/C/xampp/htdocs/Buble_UP/Admin/Lock_Screen.html",
+		"/D/All company file/Level_UP/css/style.css",
+		"/C/xampp/htdocs/Buble_UP/header1.php",
+		"/D/All company file/Level_UP/css/style1.css",
+		"/D/All company file/Shreeshyampolishing webpage/index.html",
+		"/D/All company file/Zcrop Web/index.html",
+		"/D/All company file/Zcrop Web/css/style.css",
+		"/D/All company file/WEBUILD Free Website Template - Free-CSS.com/construction-company-website-template-free/css/style.css",
+		"/D/All company file/countdown.html",
+		"/C/xampp/htdocs/Buble_UP/Pricing.php",
+		"/C/xampp/htdocs/Buble_UP/opratore.php",
+		"/C/xampp/htdocs/Buble_UP/Help_FAQs.php",
+		"/C/xampp/htdocs/Buble_UP/Careers.php",
+		"/C/xampp/htdocs/Buble_UP/footer.php",
+		"/C/xampp/htdocs/Surucu2/Company/footer.php",
+		"/C/xampp/htdocs/Buble_UP/About_us.php",
+		"/C/xampp/htdocs/Surucu2/index.php",
+		"/C/xampp/htdocs/Surucu2/Company/header.php",
+		"/C/xampp/htdocs/live surucu1/Company/header.php",
+		"/C/xampp/htdocs/Surucu live/database/config.php",
+		"/D/All company file/bubble/Pricing.html",
+		"/C/xampp/htdocs/live surucu1/index.php",
+		"/C/xampp/htdocs/live surucu1/admin/contacts.php",
+		"/C/xampp/htdocs/Buble up/Contact.php",
+		"/C/xampp/htdocs/Buble up/database/config.php",
+		"/C/xampp/htdocs/Buble up/opratore.php",
+		"/C/xampp/htdocs/Buble up/Careers.php",
+		"/C/xampp/htdocs/Buble up/Help & FAQs.php",
+		"/C/xampp/htdocs/Buble up/index.php",
+		"/C/xampp/htdocs/Buble up/Pricing.php",
+		"/C/xampp/htdocs/Buble up/About us.php",
+		"/D/All company file/Eiditable file/connectorcore/westwood.html",
+		"/C/xampp/htdocs/Buble-Admin/admin/loginByPassword.php",
+		"/C/xampp/htdocs/surucu dashboard/Comp login.php",
+		"/C/xampp/htdocs/surucu dashboard/company reg.php",
+		"/C/xampp/htdocs/surucu dashboard/index-5.php",
+		"/C/xampp/htdocs/surucu dashboard/emp reg.php",
+		"/C/xampp/htdocs/surucu dashboard/emp login.php",
+		"/C/xampp/htdocs/surucu dashboard/create-resume.php",
+		"/C/xampp/htdocs/live surucu1/find_a_job.php",
+		"/C/xampp/htdocs/Surucu live/Company reg.php",
+		"/C/xampp/htdocs/surucu dashboard/login.php",
+		"/C/xampp/htdocs/surucu dashboard/freelancers.html",
+		"/C/xampp/htdocs/Surucu live/sign-up.php",
+		"/C/xampp/htdocs/surucu dashboard/signin-signup.html",
+		"/C/xampp/htdocs/surucu dashboard/lost-password.html",
+		"/C/xampp/htdocs/surucu dashboard/index-4.php",
+		"/C/xampp/htdocs/Surucu/index.php",
+		"/C/xampp/htdocs/surucu dashboard/browse-company.php",
+		"/C/xampp/htdocs/live surucu1/createcv.php",
+		"/C/xampp/htdocs/surucu dashboard/tab.php",
+		"/C/xampp/htdocs/Surucu/createcv.php",
+		"/C/xampp/htdocs/new surucu/index.html",
+		"/C/xampp/htdocs/Surucu live/index.php",
+		"/C/xampp/htdocs/live surucu1/all_files/css/bootstrap.min.css",
+		"/C/xampp/htdocs/Surucu live/createcv.php",
+		"/D/All company file/slider/slider.html",
+		"/D/All company file/slider/css/style.css",
+		"/C/xampp/htdocs/live surucu/index.php",
+		"/C/xampp/htdocs/live surucu/live surucu/index.php"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 55.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Glorious Vivashwan.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
